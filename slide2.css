@@ -1,0 +1,45 @@
+*{
+  box-sizing: border-box;
+}
+
+header,footer{
+  height: 75px;
+  border: 2px solid black;
+  clear: both;
+}
+
+
+
+
+.top{
+  height: 150px;
+  float: right;
+  width: 100%;
+  border: 2px solid blue;
+  
+  
+}
+
+
+
+.left{
+  height: 200px;
+  float:left;
+  clear: right;
+  width:33%;
+  border: 2px solid blue;
+
+
+}
+
+.right{
+  height:200px;
+  float:left;
+  clear: right;
+  width:66%;
+  border: 2px solid blue;
+
+
+}
+  
+  
